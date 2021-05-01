@@ -1,3 +1,5 @@
+### Did you read the rules to contributing in `CONTRIBUTING.md`
+
 ### What are you trying to accomplish?
 
 
